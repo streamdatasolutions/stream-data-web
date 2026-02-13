@@ -1,0 +1,8 @@
+{
+  "name": "Stream Data - Servicios Técnicos de Broadcasting",
+  "description": "Sitio web corporativo para Stream Data, expertos en diseño, instalación y mantenimiento de proyectos de Streaming y Broadcasting profesional.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
